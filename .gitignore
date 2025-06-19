@@ -240,3 +240,6 @@ TEMP_MPY_*
 # OS files
 .DS_Store
 Thumbs.db
+
+# Gradio cache
+.gradio/
