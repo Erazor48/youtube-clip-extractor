@@ -146,10 +146,6 @@ Cet outil est destiné à un usage éducatif et personnel uniquement. Veuillez r
 
 ---
 
-## 🌍 Liens
-- [Démo Hugging Face (Anglais)](https://huggingface.co/spaces/Erazor48/youtube-clip-extractor)
-- [Dépôt GitHub](https://github.com/Erazor48/youtube-clip-extractor)
-
 ## 🌟 Features
 
 - **High Quality Extraction**: Maintains original video quality
