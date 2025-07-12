@@ -12,9 +12,6 @@
 
 # 🇬🇧 English Version
 
-## 🌐 Online Demo
-👉 [Launch English Demo on Hugging Face](https://huggingface.co/spaces/Erazor48/youtube-clip-extractor)
-
 A powerful web application to extract clips from YouTube videos with high quality. Available in both English and French.
 
 ### 🚀 Quick Start
@@ -82,11 +79,6 @@ This tool is for educational and personal use only. Please respect YouTube's Ter
 ---
 
 # 🇫🇷 Version Française
-
-## 🌐 Démo en ligne (anglais uniquement)
-👉 [Démo en ligne (Anglais)](https://huggingface.co/spaces/Erazor48/youtube-clip-extractor)
-
-> **La version française n'est disponible qu'en local.**
 
 Une application web puissante pour extraire des clips de vidéos YouTube avec une qualité élevée. Disponible en anglais et français.
 
